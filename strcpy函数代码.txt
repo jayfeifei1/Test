@@ -20,3 +20,6 @@ int tmy_strcpy1(void)
 	return 0;
 }
 */*/*/
+/**
+远程edit
+/**
